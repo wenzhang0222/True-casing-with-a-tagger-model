@@ -1,5 +1,5 @@
 # True-casing_with_a_tagger_model
-This GitHub page serves as an exercise inspired by content from the CUNY Computational Linguistics Winter Camp (https://github.com/CUNY-CL/winter-camp). The initial data and idea come from the CUNY GC Computational Linguistics Lab.
+This GitHub page serves as an exercise inspired by content from [the CUNY Computational Linguistics Winter Camp](https://github.com/CUNY-CL/winter-camp). The initial data and idea come from the CUNY GC Computational Linguistics Lab.
 
 Project Overview
 The project explores the NLP task of true-casing, also known as case restoration. True-casing aims to restore appropriate capitalization in text, which is especially useful for improving readability in outputs from machine translation, speech recognition, and noisy user-generated content like social media posts.
