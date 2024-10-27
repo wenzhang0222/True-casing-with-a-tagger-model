@@ -14,3 +14,13 @@
 #### Case Restoration: Develop a model that tags words with appropriate case patterns.
 #### Data and Feature Extraction: Utilize structured classification techniques for true-casing.
 #### Model Training and Evaluation: Use provided English data or acquire additional sources to train and test the model.
+
+## **Citation and Acknowledgments**
+
+#### - **Project Developers**:  
+  #### Kyle Gorman, M. Elizabeth Garza, and Emily Campbell  
+  #### Original creators of the true-casing tagger model. Their research and development laid the foundation for this project.
+
+#### - **Project Implementer**:  
+  #### Wen Zhang  
+  #### Adapted and implemented the code based on the original work by Gorman, Garza, and Campbell.
