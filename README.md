@@ -6,9 +6,9 @@
 
 ## **Learning Goals**
 #### Through this exercise:
-#### Understand how true-casing can enhance readability in various NLP applications.
-#### Build a case restoration system using Python and command-line tools.
-#### Practice Python skills in file handling, command-line integration, and structured classification using a Conditional Random Field (CRF) model.
+#### - Understand how true-casing can enhance readability in various NLP applications.
+#### - Build a case restoration system using Python and command-line tools.
+#### - Practice Python skills in file handling, command-line integration, and structured classification using a Conditional Random Field (CRF) model.
 
 ## **Tasks and Structure**
 #### Case Restoration: Develop a model that tags words with appropriate case patterns.
