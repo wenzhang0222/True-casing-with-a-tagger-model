@@ -18,9 +18,9 @@ Through this exercise:
 ## Citation and Acknowledgments
 
 - Project Developers:  
-Kyle Gorman, M. Elizabeth Garza, and Emily Campbell
+Kyle Gorman, M. Elizabeth Garza, and Emily Campbell  
 Original creators of the true-casing tagger model. Their research and development laid the foundation for this project.
 
 - Project Implementer:  
-Wen Zhang
+Wen Zhang  
 Adapted and implemented the code based on the original work by Gorman, Garza, and Campbell.
