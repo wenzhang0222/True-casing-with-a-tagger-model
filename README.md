@@ -11,9 +11,9 @@ Through this exercise:
 - Practice Python skills in file handling, command-line integration, and structured classification using a Conditional Random Field (CRF) model.
 
 ## Tasks and Structure
-Case Restoration: Develop a model that tags words with appropriate case patterns.
-Data and Feature Extraction: Utilize structured classification techniques for true-casing.
-Model Training and Evaluation: Use provided English data or acquire additional sources to train and test the model.
+- Case Restoration: Develop a model that tags words with appropriate case patterns.
+- Data and Feature Extraction: Utilize structured classification techniques for true-casing.
+- Model Training and Evaluation: Use provided English data or acquire additional sources to train and test the model.
 
 ## Citation and Acknowledgments
 
